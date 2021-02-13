@@ -13,3 +13,6 @@ un'architettura client/server. Una volta avviato il server, questo svolge divers
 * Percorre l'albero dalla radice al nodo foglia in base ai messaggi del client
 
 Il client, invece, interagisce con il server indicando la tabella del database da cui prendere i dati e guida la scansione dell'albero dalla radice al nodo foglia.
+
+Nella cartella "Guida Utente" troverete il file da me creato per guidarvi nell'installazione del programma e alcuni casi di test.
+Nella cartella "Jar e Script" troverete gli script e il jar da poter scaricare ed eseguire direttamente.
